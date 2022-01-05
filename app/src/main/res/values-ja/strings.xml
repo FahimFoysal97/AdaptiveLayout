@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">こんにちは世界!</string>
+    <string name="image">画像</string>
+    <string name="welcome_to_the_party">パーティーへようこそ</string>
+    <string name="have_a_nice_day">ごきげんよう</string>
+    <string name="take_care_of_yourself">自分を大事にして下さい</string>
+</resources>

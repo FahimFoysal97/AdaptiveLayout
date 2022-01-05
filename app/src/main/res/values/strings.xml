@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name" translatable="false">AdaptiveLayout</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="image">Image</string>
+    <string name="welcome_to_the_party">Welcome to the party</string>
+    <string name="have_a_nice_day">Have a nice day</string>
+    <string name="take_care_of_yourself">Take care of yourself</string>
+
+    <!-- Animation strings -->
+    <string name="blink" translatable="false">Blink</string>
+    <string name="bounce" translatable="false">Bounce</string>
+    <string name="rotate" translatable="false">Rotate</string>
+    <string name="fade_in" translatable="false">Fade in</string>
+    <string name="fade_out" translatable="false">Fade out</string>
+    <string name="left_to_right" translatable="false">Left to right</string>
+    <string name="right_to_left" translatable="false">Right to left</string>
+    <string name="zoom_in" translatable="false">Zoom in</string>
+    <string name="zoom_out" translatable="false">Zoom out</string>
+    <string name="second_activity" translatable="false">Second Activity</string>
+    <string name="second_activity_text_title" translatable="false">Title of the content</string>
+
+    <!--Test Description-->
+    <string name="second_activity_text_description" translatable="false">Lorem ipsum dolor sit amet, vitae scripta sensibus per ne, pro eros delectus at. Eu eam nisl iudico definitionem, cu sit soleat blandit. Usu in novum eirmod, ei usu menandri abhorreant. Ei debet dicit recteque eos, nec nostrud salutandi elaboraret ne, no nec legere soluta. In vis inani meliore accumsan. Vix essent denique accusam id, sed iusto graeci eu, graece epicurei lucilius qui ea.
+
+No sit choro delenit, cum an prima propriae forensibus. Ea ius mazim decore volumus, eripuit liberavisse sea no. Elit intellegebat id mei. Facilis suscipiantur his ne, ut dicit pericula definitionem usu. Ex novum aeque dolor nec, no vix augue fuisset. Commodo officiis patrioque ut eum, veri efficiendi ei qui, atomorum sadipscing ut vel.
+
+Ea quis atqui eum. Eros quaeque epicuri no qui, cu civibus consulatu vim, eos id facilis blandit invidunt. Eu dicit graeco nusquam qui, pro at sale quando. Nonumes perpetua ex eam, no quo meis postulant.
+
+Sea ad erant saepe, timeam ocurreret his et, cum ad dolorum periculis. Pro ea cetero euripidis, fabellas eleifend theophrastus ea sit. Mel latine vivendum te. Has ne posse equidem neglegentur, errem dissentias quo ut, sanctus delicatissimi in vel. Ad ius elitr nonumy delicata, eum ne amet facilisis.
+
+Vide fugit eligendi ei ius, mutat congue veniam ne mel, cum congue iuvaret iracundia ei. Te duo eius voluptua, appetere oportere no vis. Usu semper deserunt reprehendunt et, sea id vitae dissentiet. Eos ad exerci tritani. Mazim petentium iudicabit cum in, eos veniam oportere efficiantur ex.
+
+Case principes usu ut, ne vix illud deserunt forensibus. Duo et eius voluptua delicata, te veniam scribentur sit. Omnesque gloriatur mei et, et has aeque facilisis consequat. At eos clita neglegentur. Erant dolore ius et, eum invenire adversarium ea.
+
+Has ut dicta virtute sensibus, vel at laudem everti placerat. Te mea dolor maluisset dissentiet, dicit detraxit per no. Ad est apeirian elaboraret, at tamquam patrioque similique est, te clita eirmod invenire cum. Eu harum gloriatur vel, mea percipit democritum ex. Pri in fabellas instructior.
+
+Ea vel viris exerci recteque, ad wisi movet munere est, omnis graecis ne eos. Id nam iuvaret probatus incorrupte. His posse zril no, repudiandae accommodare duo ut. Pri meis gubergren ne, eum id maiorum ponderum platonem.
+
+Sit virtute definiebas omittantur te, pri ei quis omnium, has alia voluptatibus ea. Verear oporteat suavitate nec in. Cu partem efficiendi sit, ei vis docendi persequeris, his delenit ponderum at. Cu decore posidonium duo, nam scripserit omittantur te, omnes aperiam sapientem eu sed.
+
+Ei choro delectus percipit mea, est ne porro verterem, sint eleifend iudicabit mel ne. Semper euismod voluptatibus duo an, his movet reprehendunt ea. Sale eligendi cu duo. Eu sea eros elaboraret, id eius sensibus per. Ad vim autem solet voluptatum, eu pri quas rebum verterem, cu meis minim nec. Alii ornatus ne vim.</string>
+
+</resources>
